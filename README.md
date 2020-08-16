@@ -5,6 +5,9 @@ The Light_FTI-FDet is modified from [FTI-FDet](https://ieeexplore.ieee.org/docum
 
 
 ### Codes
+A caffe implementation of fault detection network based on Faster RCNN (follow [Soft-NMS](https://github.com/bharatsingh430/soft-nms)).
+
+### Datasets
 Coming soon!
 
 
