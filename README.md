@@ -14,7 +14,7 @@ Coming soon!
 ### Citing
 If you find this repository useful in your research, please consider citing:
 ```
-@INPROCEEDINGS{Light_FTI-FDet,
+@INPROCEEDINGS{Light-FTI-FDet,
   author={Y. {Zhang} and M. {Liu} and Y. {Chen} and H. {Zhang} and Y. {Guo}},
   journal={IEEE Transactions on Instrumentation and Measurement}, 
   title={Real-Time Vision-Based System of Fault Detection for Freight Trains}, 
