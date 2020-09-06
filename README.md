@@ -1,5 +1,5 @@
-# Light_FTI-FDet
-Source code for the paper "Real-time Vision Based System of Fault Detection for Freight Trains". The Light_FTI-FDet paper can be found [here](https://ieeexplore.ieee.org/document/8911418).
+# Light-FTI-FDet
+Source code for the paper "Real-time Vision Based System of Fault Detection for Freight Trains". The Light-FTI-FDet paper can be found [here](https://ieeexplore.ieee.org/document/8911418).
 
 The Light_FTI-FDet is modified from [FTI-FDet](https://ieeexplore.ieee.org/document/8451188).
 
